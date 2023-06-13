@@ -1,0 +1,17 @@
+name: xeus-python-kernel
+channels:
+  - https://repo.mamba.pm/emscripten-forge
+  - https://repo.mamba.pm/conda-forge
+dependencies:
+  - bokeh
+  - holoviews
+  - hvplot
+  - matplotlib
+  - h5netcdf
+  - numpy
+  - pandas
+  - panel
+  - python
+  - scipy
+  - scikit-learn
+  - xarray
